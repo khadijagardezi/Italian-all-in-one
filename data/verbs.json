@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "italian": "accettare",
+    "english": "to accept"
+  },
+  {
+    "id": 2,
+    "italian": "ammettere",
+    "english": "to admit"
+  },
+  {
+    "id": 3,
+    "italian": "affermare",
+    "english": "to affirm"
+  },
+  {
+    "id": 4,
+    "italian": "convenire",
+    "english": "to agree"
+  },
+  {
+    "id": 5,
+    "italian": "annunciare",
+    "english": "to announce"
+  },
+  {
+    "id": 6,
+    "italian": "gradire",
+    "english": "to appreciate"
+  },
+    {
+    "id": 7,
+    "italian": "chiedere",
+    "english": "to ask"
+  },
+  {
+    "id": 8,
+    "italian": "domandare",
+    "english": "to ask"
+  },
+  {
+    "id": 9,
+    "italian": "aspirare",
+    "english": "to aspire"
+  },
+  {
+    "id": 10,
+    "italian": "assicurare",
+    "english": "to assure"
+  },
+  {
+    "id": 11,
+    "italian": "tentare",
+    "english": "to attempt"
+  },
+  {
+    "id": 12,
+    "italian": "evitare",
+    "english": "to avoid"
+  }
+]
