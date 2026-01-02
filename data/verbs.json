@@ -59,4 +59,109 @@
     "italian": "evitare",
     "english": "to avoid"
   }
+    {
+    "id": 13,
+    "italian": "tralasciare",
+    "english": "to avoid"
+  },
+    {
+    "id": 14,
+    "italian": "essere lieto",
+    "english": "to be glad/happy"
+  },
+    {
+    "id": 15,
+    "italian": "essere felice",
+    "english": "to be happy"
+  },
+    {
+    "id": 16,
+    "italian": "avere fretta",
+    "english": "to be in a hurry"
+  },
+    {
+    "id": 17,
+    "italian": "interessarsi",
+    "english": "to be interested in"
+  },
+    {
+    "id": 18,
+    "italian": "tardare",
+    "english": "to be late"
+  },
+    {
+    "id": 19,
+    "italian": "essere fiero",
+    "english": "to be proud"
+  },
+    {
+    "id": 20,
+    "italian": "dolersi",
+    "english": "to be sorry"
+  },
+    {
+    "id": 21,
+    "italian": "iniziare",
+    "english": "to begin"
+  },
+    {
+    "id": 22,
+    "italian": "cerdere",
+    "english": "to believe"
+  },
+    {
+    "id": 23,
+    "italian": "ritenere",
+    "english": "to believe"
+  },
+    {
+    "id": 24,
+    "italian": "venire",
+    "english": "to come"
+  },
+    {
+    "id": 25,
+    "italian": "comunicare",
+    "english": "to communicate"
+  },
+    {
+    "id": 26,
+    "italian": "obbligare",
+    "english": "to compel"
+  },
+    {
+    "id": 27,
+    "italian": "lamentarsi",
+    "english": "to complain"
+  },
+    {
+    "id": 28,
+    "italian": "condannare",
+    "english": "to condemn"
+  },
+    {
+    "id": 29,
+    "italian": "confessare",
+    "english": "to confess"
+  },
+    {
+    "id": 30,
+    "italian": "confermare",
+    "english": "to confirm"
+  },
+    {
+    "id": 31,
+    "italian": "accettare",
+    "english": "to accept"
+  },
+    {
+    "id": 32,
+    "italian": "continuare",
+    "english": "to continue"
+  },
+    {
+    "id": 33,
+    "italian": "persuadere",
+    "english": "to persuade/convince"
+  }
 ]
