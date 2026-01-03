@@ -58,8 +58,8 @@
     "id": 12,
     "italian": "evitare",
     "english": "to avoid"
-  }
-    {
+  },
+  {
     "id": 13,
     "italian": "tralasciare",
     "english": "to avoid"
@@ -154,14 +154,54 @@
     "italian": "accettare",
     "english": "to accept"
   },
-    {
+  {
     "id": 32,
     "italian": "continuare",
     "english": "to continue"
   },
-    {
+  {
     "id": 33,
     "italian": "persuadere",
     "english": "to persuade/convince"
+  },
+  {
+    "id": 34,
+    "italian": "osare",
+    "english": "to dare"
+  },
+  {
+    "id": 35,
+    "italian": "decidere",
+    "english": "to decide"
+  },
+  {
+    "id": 36,
+    "italian": "dichiersi",
+    "english": "to decide"
+  },
+  {
+    "id": 37,
+    "italian": "dechiarare",
+    "english": "to declare"
+  },
+  {
+    "id": 38,
+    "italian": "sostenere",
+    "english": "to defend"
+  },
+  {
+    "id": 39,
+    "italian": "dimostrare",
+    "english": "to demonstrate"
+  },
+  {
+    "id": 40,
+    "italian": "dubitare",
+    "english": "to doubt"
+  },
+  {
+    "id": 41,
+    "italian": "incoraggiare",
+    "english": "to encourage"
   }
 ]
