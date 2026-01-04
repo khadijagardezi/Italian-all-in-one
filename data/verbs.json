@@ -203,5 +203,15 @@
     "id": 41,
     "italian": "incoraggiare",
     "english": "to encourage"
+  },
+  {
+    "id": 42,
+    "italian": "escludere",
+    "english": "to exclude"
+  },
+  {
+    "id": 43,
+    "italian": "aspettarsi",
+    "english": "to expect"
   }
 ]
