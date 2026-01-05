@@ -213,5 +213,15 @@
     "id": 43,
     "italian": "aspettarsi",
     "english": "to expect"
+  },
+  {
+    "id": 44,
+    "italian": "avere paura",
+    "english": "to be afraid"
+  },
+  {
+    "id": 45,
+    "italian": "costringere",
+    "english": "to force"
   }
 ]
