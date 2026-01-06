@@ -223,5 +223,30 @@
     "id": 45,
     "italian": "costringere",
     "english": "to force"
+  },
+  {
+    "id": 46,
+    "italian": "obbligare",
+    "english": "to force"
+  },
+  {
+    "id": 47,
+    "italian": "dimenticare",
+    "english": "to forget"
+  },
+  {
+    "id": 48,
+    "italian": "lasciar perdere",
+    "english": "to forget about something"
+  },
+  {
+    "id": 49,
+    "italian": "permettere",
+    "english": "to allow/permit"
+  },
+  {
+    "id": 50,
+    "italian": "apperstarsi",
+    "english": "to get ready"
   }
 ]
