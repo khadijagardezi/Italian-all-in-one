@@ -248,5 +248,25 @@
     "id": 50,
     "italian": "apperstarsi",
     "english": "to get ready"
+  },
+  {
+    "id": 51,
+    "italian": "disporsi",
+    "english": "to get ready"
+  },
+  {
+    "id": 52,
+    "italian": "stancarsi",
+    "english": "to get tired"
+  },
+  {
+    "id": 53,
+    "italian": "andare",
+    "english": "to go"
+  },
+  {
+    "id": 54,
+    "italian": "tornare",
+    "english": "to go back/return"
   }
 ]
