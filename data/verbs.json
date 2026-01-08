@@ -268,5 +268,40 @@
     "id": 54,
     "italian": "tornare",
     "english": "to go back/return"
+  }, 
+  {
+    "id": 55,
+    "italian": "indovinare",
+    "english": "to guess"
+  },
+  {
+    "id": 56,
+    "italian": "stentare",
+    "english": "to have difficulty"
+  },
+  {
+    "id": 57,
+    "italian": "ripromettarsi",
+    "english": "to have in mind"
+  },
+  {
+    "id": 58,
+    "italian": "dovare",
+    "english": "to have to"
+  },
+  {
+    "id": 59,
+    "italian": "aiutare",
+    "english": "to help"
+  },
+  {
+    "id": 60,
+    "italian": "accennare",
+    "english": "to hint"
+  },
+  {
+    "id": 61,
+    "italian": "augurarsi",
+    "english": "to hope"
   }
 ]
