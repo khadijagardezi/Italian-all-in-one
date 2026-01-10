@@ -303,5 +303,15 @@
     "id": 61,
     "italian": "augurarsi",
     "english": "to hope"
+  },
+  {
+    "id": 62,
+    "italian": "sperare",
+    "english": "to hope"
+  },
+  {
+    "id": 63,
+    "italian": "affrettarsi",
+    "english": "to hurry"
   }
 ]
