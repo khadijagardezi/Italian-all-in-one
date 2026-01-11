@@ -313,5 +313,55 @@
     "id": 63,
     "italian": "affrettarsi",
     "english": "to hurry"
+  },
+  {
+    "id": 64,
+    "italian": "preoccuparsi",
+    "english": "to worry"
+  },
+  {
+    "id": 65,
+    "italian": "stupirsi",
+    "english": "to be amazed"
+  },
+  {
+    "id": 66,
+    "italian": "meravigliarsi",
+    "english": "to be amazed"
+  },
+  {
+    "id": 67,
+    "italian": "desiderare",
+    "english": "to desire/wish"
+  },
+  {
+    "id": 68,
+    "italian": "volere",
+    "english": "to want"
+  },
+  {
+    "id": 69,
+    "italian": "aspettare",
+    "english": "to wait"
+  },
+  {
+    "id": 70,
+    "italian": "attendere",
+    "english": "to wait"
+  },
+  {
+    "id": 71,
+    "italian": "tenerci",
+    "english": "to care about"
+  },
+  {
+    "id": 72,
+    "italian": "intraprendere",
+    "english": "to undertake"
+  },
+  {
+    "id": 73,
+    "italian": "capire",
+    "english": "to understand"
   }
 ]
