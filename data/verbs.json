@@ -363,5 +363,30 @@
     "id": 73,
     "italian": "capire",
     "english": "to understand"
+  },
+  {
+    "id": 74,
+    "italian": "provare",
+    "english": "to try"
+  },
+  {
+    "id": 75,
+    "italian": "cercare",
+    "english": "to try"
+  },
+  {
+    "id": 76,
+    "italian": "minacciare",
+    "english": "to threaten"
+  },
+  {
+    "id": 77,
+    "italian": "avere idea",
+    "english": "to have an idea"
+  },
+  {
+    "id": 78,
+    "italian": "pensare",
+    "english": "to think"
   }
 ]
