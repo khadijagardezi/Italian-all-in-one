@@ -388,5 +388,40 @@
     "id": 78,
     "italian": "pensare",
     "english": "to think"
+  },
+  {
+    "id": 79,
+    "italian": "ringraziare",
+    "english": "to thank"
+  },
+  {
+    "id": 80,
+    "italian": "raccontare",
+    "english": "to tell"
+  },
+  {
+    "id": 81,
+    "italian": "giurare",
+    "english": "to swear"
+  },
+  {
+    "id": 82,
+    "italian": "sospettare",
+    "english": "to suspect"
+  },
+  {
+    "id": 83,
+    "italian": "supporre",
+    "english": "to suppose"
+  },
+  {
+    "id": 84,
+    "italian": "soffrire",
+    "english": "to suffer"
+  },
+  {
+    "id": 85,
+    "italian": "riuscire",
+    "english": "to succeed"
   }
 ]
