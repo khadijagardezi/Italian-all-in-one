@@ -428,5 +428,15 @@
     "id": 86,
     "italian": "salire",
     "english": "to go up/ascend"
+  },
+  {
+    "id": 87,
+    "italian": "finire",
+    "english": "to stop/finish"
+  },
+  {
+    "id": 88,
+    "italian": "fermarsi",
+    "english": "to stop"
   }
 ]
