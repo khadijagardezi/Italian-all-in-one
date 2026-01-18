@@ -438,5 +438,15 @@
     "id": 88,
     "italian": "fermarsi",
     "english": "to stop"
+  },
+  {
+    "id": 89,
+    "italian": "stare",
+    "english": "to stay/be"
+  },
+  {
+    "id": 90,
+    "italian": "prendere",
+    "english": "to start"
   }
 ]
