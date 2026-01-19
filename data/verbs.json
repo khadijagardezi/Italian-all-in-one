@@ -448,5 +448,20 @@
     "id": 90,
     "italian": "prendere",
     "english": "to start"
+  },
+  {
+    "id": 91,
+    "italian": "incominciare",
+    "english": "to start"
+  },
+  {
+    "id": 92,
+    "italian": "attaccare",
+    "english": "to start"
+  },
+  {
+    "id": 93,
+    "italian": "mandare",
+    "english": "to send"
   }
 ]
