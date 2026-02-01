@@ -473,5 +473,10 @@
     "id": 95,
     "italian": "dire",
     "english": "to say/tell"
+  },
+  {
+    "id": 96,
+    "italian": "affiggere",
+    "english": "to post/put up"
   }
 ]
