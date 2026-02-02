@@ -478,5 +478,10 @@
     "id": 96,
     "italian": "affiggere",
     "english": "to post/put up"
+  },
+  {
+    "id": 97,
+    "italian": "promettere",
+    "english": "to promise"
   }
 ]
