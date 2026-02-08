@@ -488,5 +488,15 @@
     "id": 98,
     "italian": "proporre",
     "english": "to propose"
+  },
+  {
+    "id": 99,
+    "italian": "prospettare",
+    "english": "to propose"
+  },
+  {
+    "id": 100,
+    "italian": "progettare",
+    "english": "to plan"
   }
 ]
