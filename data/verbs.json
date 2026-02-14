@@ -498,5 +498,15 @@
     "id": 100,
     "italian": "progettare",
     "english": "to plan"
+  },
+  {
+    "id": 101,
+    "italian": "raccomandare",
+    "english": "to recommend"
+  },
+  {
+    "id": 102,
+    "italian": "ricordare",
+    "english": "to remember"
   }
 ]
