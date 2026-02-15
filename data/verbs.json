@@ -508,5 +508,25 @@
     "id": 102,
     "italian": "ricordare",
     "english": "to remember"
+  },
+  {
+    "id": 103,
+    "italian": "ricordarsi",
+    "english": "to remember"
+  },
+  {
+    "id": 104,
+    "italian": "rifiutare",
+    "english": "to refuse"
+  },
+  {
+    "id": 105,
+    "italian": "rifiutarsi",
+    "english": "to refuse"
+  },
+  {
+    "id": 106,
+    "italian": "rappresentare",
+    "english": "to represent"
   }
 ]
