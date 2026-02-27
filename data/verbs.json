@@ -543,5 +543,10 @@
     "id": 109,
     "italian": "risultare",
     "english": "to turn out"
+  },
+  {
+    "id": 110,
+    "italian": "ritenere",
+    "english": "to consider"
   }
 ]
